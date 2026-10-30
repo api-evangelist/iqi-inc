@@ -1,4 +1,4 @@
-# iqi-inc
+# IQI Inc (Beijing AIQI Technology)
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,6 +64,79 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-iqi-inc is a company surfaced as a portfolio company of qiming and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+IQI Inc, operating as Beijing AIQI Technology Co., Ltd. (北京爱其科技有限公司), is a mobile-internet company founded in April 2013 that develops smart hardware and robotics products under a "Create more & More fun" philosophy. It is best known for its ONEBOT building-block robots and construction sets — including the Mi Tu (米兔) block robots in the Xiaomi ecosystem and heritage-architecture sets such as the Millennium Mortise-and-Tenon (千年榫), Qinian Hall (祈年殿) and Forbidden City Corner Tower kits. The company sells through its own store, Tmall (ONEBOT flagship) and JD.com. It is a consumer smart-hardware/toy brand; as of this profile it publishes no public developer platform, API, SDK or documentation surface.
 
-Backed by: qiming — https://iqi-inc.com
+**Areas:** Company · Robotics · Smart Hardware · Building Blocks · Consumer Electronics · Toys · Xiaomi Ecosystem · IoT
+
+## IQI Inc (Beijing AIQI Technology) on APIs.io
+
+Everything profiled for IQI Inc (Beijing AIQI Technology) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/iqi-inc/](https://apis.io/providers/iqi-inc/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Iqi Inc Domain Security](https://apis.io/security/iqi-inc/iqi-inc-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://www.iqi-inc.com/)
+
+## API Evangelist rating
+
+**Kin Score 3.4** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/iqi-inc/](https://apis.io/providers/iqi-inc/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for IQI Inc (Beijing AIQI Technology): the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/iqi-inc/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
